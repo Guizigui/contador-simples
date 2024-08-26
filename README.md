@@ -1,3 +1,3 @@
 # contador
 
-Projeto desenvolvido em Flutter de um contador.
+Projeto desenvolvido em Flutter de um contador simpes.
